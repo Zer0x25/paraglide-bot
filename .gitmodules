@@ -2,5 +2,5 @@
 	path = paraglide-3.0
 	url = https://github.com/Zer0x25/paraglide-3.0.git
 [submodule "sdk-bot"]
-	path = sdk-bot
+	path = sdk-bot-2.0
 	url = https://github.com/Zer0x25/sdk-bot-2.0.git
